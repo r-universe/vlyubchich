@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "funtimes"]
+	path = funtimes
+	url = https://github.com/vlyubchich/funtimes
 [submodule "lawstat"]
 	path = lawstat
 	url = https://github.com/vlyubchich/lawstat
+[submodule "snowboot"]
+	path = snowboot
+	url = https://github.com/cran/snowboot
